@@ -20,3 +20,6 @@ Contents:
   install-apps.sh
     A script for installing the essentials and some nice-to-haves for
     development and network troubleshooting.
+
+  install-drush-from-pear.sh
+    Installs the most recent stable release of drush via pear.
