@@ -1,4 +1,4 @@
-Kubuntu Drupal Dev Setup
+Ubuntu Drupal Dev Setup
 ------------------------
 A collection of scripts and helpful goodies for setting up a Kubuntu-based
 development environment.
