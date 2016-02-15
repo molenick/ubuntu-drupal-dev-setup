@@ -23,3 +23,7 @@ Contents:
 
   install-drush-from-pear.sh
     Installs the most recent stable release of drush via pear.
+
+Future Roadmap - todo:
+------------------------
+1. Replace drush pear install script with composer install script.
