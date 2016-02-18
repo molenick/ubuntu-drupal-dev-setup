@@ -23,3 +23,6 @@ Contents:
 
   install-drush-from-composer.sh
     Installs the most Drush 8 via composer.
+
+  install-backdrop-drush.sh
+    Installs the my fork of the backdrop fork of drush.
