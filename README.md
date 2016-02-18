@@ -1,6 +1,6 @@
 Ubuntu Drupal Dev Setup
 ------------------------
-A collection of scripts and helpful goodies for setting up a Kubuntu-based
+A collection of scripts and helpful goodies for setting up an Ubuntu-based
 development environment.
 
 Usage Notes
