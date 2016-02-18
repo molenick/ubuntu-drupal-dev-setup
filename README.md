@@ -21,9 +21,5 @@ Contents:
     A script for installing the essentials and some nice-to-haves for
     development and network troubleshooting.
 
-  install-drush-from-pear.sh
-    Installs the most recent stable release of drush via pear.
-
-Future Roadmap - todo:
-------------------------
-1. Replace drush pear install script with composer install script.
+  install-drush-from-composer.sh
+    Installs the most Drush 8 via composer.
